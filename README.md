@@ -9,6 +9,10 @@ The project was done by [Giáp Minh Hiếu](https://github.com/HieuGM), in the c
 
 - [Java](https://www.java.com/en/) 
 
+## Demo Video
+
+- https://youtu.be/T3YtbDyKjGA
+
 
 ## Installation
 
